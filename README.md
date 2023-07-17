@@ -35,7 +35,7 @@ This repository is a curated collection of engineering and technology blogs from
 | Heroku Engineering Blog                | [https://engineering.heroku.com/](https://engineering.heroku.com/)             |
 | Discord Engineering and Design        | [https://discord.com/blog/tag/engineering](https://discord.com/blog/tag/engineering) |
 | Zomato                                | [https://engineering.zomato.com/](https://engineering.zomato.com/)           |
-| Hotstar                               | [https://tech.hotstar.com/](https://tech.hotstar.com/)                         |
+| Hotstar                               | [https://blog.hotstar.com/](https://blog.hotstar.com/)                         |
 | Swiggy                                | [https://bytes.swiggy.com/](https://bytes.swiggy.com/)                         |
 | Acast Tech                            | [https://medium.com/acast-tech](https://medium.com/acast-tech)                 |
 | ASOS Tech Blog                        | [https://medium.com/asos-techblog](https://medium.com/asos-techblog)           |
